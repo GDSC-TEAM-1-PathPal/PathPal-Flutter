@@ -81,7 +81,6 @@ ColorScheme appColorScheme(){
     onBackground: gray900,
     surface: Colors.white,
     onSurface: gray900,
-    outline: gray200,
     error: red900,
     onError: red900,
   );

@@ -52,15 +52,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/logo.png
-    - assets/images/google-icon.png
-  fonts:
-    - family: login
-      fonts:
-        - asset: assets/fonts/MPLUSRounded1c-Black.ttf
-          weight: 700
-        - asset: assets/fonts/MPLUSRounded1c-Medium.ttf
-          weight: 200
+    - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
